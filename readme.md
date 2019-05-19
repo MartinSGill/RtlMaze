@@ -7,7 +7,9 @@ a working container that you can then run.
 
 The scraper starts automatically with the application.
 
-The app is fully functional while the scraper is running, but
+The app is fully functional while the scraper is running, but not all shows
+will be available. Only once the scraper has completed will the data be
+fully complete.
 
 *Scraper Status*
 
