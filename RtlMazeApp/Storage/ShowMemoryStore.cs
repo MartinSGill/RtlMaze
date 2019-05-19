@@ -3,7 +3,7 @@
     using System.Collections.Concurrent;
     using System.Collections.Generic;
     using System.Linq;
-    using RtlMazeApp.Model;
+    using Model;
 
     internal interface IShowStore
     {

@@ -1,9 +1,8 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using Newtonsoft.Json;
-
-namespace RtlMazeApp.Model
+﻿namespace RtlMazeApp.Model
 {
+    using System.Collections.Generic;
+    using Newtonsoft.Json;
+
     [JsonObject(MemberSerialization.OptIn)]
     public class SimpleShow
     {

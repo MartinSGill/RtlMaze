@@ -3,8 +3,8 @@
     using System.Collections.Generic;
     using System.Linq;
     using Microsoft.AspNetCore.Mvc;
+    using Model;
     using Scraper;
-    using RtlMazeApp.Model;
 
     [Route("api/[controller]")]
     [ApiController]

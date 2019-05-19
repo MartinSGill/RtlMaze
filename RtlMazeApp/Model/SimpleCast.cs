@@ -1,9 +1,9 @@
-﻿using System;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Converters;
-
-namespace RtlMazeApp.Model
+﻿namespace RtlMazeApp.Model
 {
+    using System;
+    using Newtonsoft.Json;
+    using Newtonsoft.Json.Converters;
+
     public class DateTimeConverter : IsoDateTimeConverter
     {
         public DateTimeConverter()
